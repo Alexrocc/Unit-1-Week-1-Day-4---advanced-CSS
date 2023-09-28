@@ -82,5 +82,6 @@ footer {
   vertical-align: middle;
   margin: 5%;
   box-sizing: border-box;
+  background-color: white;
   box-shadow: 3px 3px 9px 0px black;
 }
